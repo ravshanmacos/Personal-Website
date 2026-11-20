@@ -5,7 +5,7 @@ export const site = {
   available: true, // shows the "Open to remote backend roles" badge
   domain: 'ravshanbek.dev',
   firstName: 'Ravshanbek',
-  surname: '[SURNAME]',
+  surname: 'Tursunbayev',
   tagline:
     'Backend developer in Tashkent. I build the parts nobody sees — schemas, queries, scheduled jobs, and the locks that keep them honest.',
   cvUrl: '[CV LINK]',
